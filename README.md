@@ -17,30 +17,32 @@
 ### 9. Use M3 screws to attach the base with the back cover
    ![20241008_115842](https://github.com/user-attachments/assets/46b33c13-1d4a-4e96-aec7-40f1f92f8411)
 ### 10. Place the boost converter and the driver board on the base (they slide in inside the rails only in one direction until they reach a stop)
-![20240828_161526](https://github.com/user-attachments/assets/26547076-a698-4cc4-a718-8e843e85bcc9)
-![20240828_161543](https://github.com/user-attachments/assets/145ff293-4b44-497a-84ca-423055fed767)
+   ![20240828_161526](https://github.com/user-attachments/assets/26547076-a698-4cc4-a718-8e843e85bcc9)
+   ![20240828_161543](https://github.com/user-attachments/assets/145ff293-4b44-497a-84ca-423055fed767)
 
 ### 11. Solder the barrel jack connector into the input pins of the boost converter( We recommend cheching the polarity of the positive (internal pin) and negative pins and cut away the 3rd (sleeve) pin 
-![20240828_162123](https://github.com/user-attachments/assets/2be16825-22c3-4ca3-ac0c-2bf7027098fe)
+   ![20240828_162123](https://github.com/user-attachments/assets/2be16825-22c3-4ca3-ac0c-2bf7027098fe)
 
 ### 12. Adjust the voltage of the boost converter by connecting the barrel jack to the display power supply and the output to the multimiter terminals, then use a small flat screwdriver to adjust the output voltage to 54V
    ![20241008_101745](https://github.com/user-attachments/assets/5de86ee4-9718-4f58-afde-a6b6984ad0ee)
    
 ### 13. Solder the boost output wires to the +(red) and -(black) terminals of the driver board
-![20240828_162147](https://github.com/user-attachments/assets/9601cc66-9b1c-4885-b263-cccf6eb213ed)
+   ![20240828_162147](https://github.com/user-attachments/assets/9601cc66-9b1c-4885-b263-cccf6eb213ed)
 
 ### 14. Put the top cover of the box inserting first the barrel jack connector through the hole and hold it in place using the nut.
 
+### 15. Connect the backlight connector through the hole on the box
+![20241009_155110](https://github.com/user-attachments/assets/8aa51734-29e3-4d0b-87d8-ebf9143d7e5e)
 
-### 6. Connect back the joistick connector
+### 16. Insert the two self threading screws on the box sides to keep the top in place
+![20241009_155116](https://github.com/user-attachments/assets/5c13f286-5a9a-4c92-b71a-609a5720b32f)
+
+### 17. Connect back the joistick connector
 ![20241009_115725](https://github.com/user-attachments/assets/9d6ee81d-19aa-44ce-9064-5a3db4ce0e8d)
 
-### 6. Connect the backlight connector through the hole on the box
+### 18. Close the back cover
 
-### 6. Add the two self threading screws on the box sides to keep the top in place
-
-### 6. Close the back cover
-### 6. Put the switch in (     ) position
+### 19. Put the switch in (     ) position
 
 
 ## Bill of materials
