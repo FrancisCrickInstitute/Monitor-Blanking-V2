@@ -2,13 +2,13 @@
 
 1) 1 x 3D printed case
 2) 1 x 3D printed base
-3) 1 x Driver board
-4) 1 x boost converter
+3) 1 x [Driver board](https://github.com/FrancisCrickInstitute/Monitor-Blanking-V2/tree/main/Driver%20PCB)
+4) 1 x [Boost converter](https://www.amazon.co.uk/gp/product/B0897K55JD/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 5) 2 x M3 nuts
-6) 2 x M3 acrews
-7) 2 x Self tapping screws (RS 266-5680)
-8) 1 x Barrel jack connector (panel mount)
-9) 1 x Barrel jack connector Y splitter
+6) 2 x M3 screws 12-16 mm length
+7) 2 x Self tapping screws
+8) 1 x Barrel jack connector (panel mount) 
+9) [1 x Barrel jack connector Y splitter](https://www.amazon.co.uk/gp/product/B0C9TR26LD/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 
 # Assembly instructions
 
