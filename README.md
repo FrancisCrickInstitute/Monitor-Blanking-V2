@@ -1,3 +1,15 @@
+## Bill of materials
+
+1. 1 x 3D printed case
+2. 1 x 3D printed base
+1 x Driver board
+1 x boost converter
+2 x M3 nuts
+2 x M3 acrews
+2 x screws
+1 x barrel jack connector
+1 x barrel jack connector Y splitter
+
 # Assembly instructions
 
 ### 1. Download the STL files and 3D print the case
@@ -44,18 +56,6 @@
 
 ### 19. Put the switch in (     ) position
 
-
-## Bill of materials
-
-   1 x 3D printed case
-1 x 3D printed base
-1 x Driver board
-1 x boost converter
-2 x M3 nuts
-2 x M3 acrews
-2 x screws
-1 x barrel jack connector
-1 x barrel jack connector Y splitter
 
 
 
