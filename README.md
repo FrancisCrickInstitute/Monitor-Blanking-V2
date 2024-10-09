@@ -7,8 +7,8 @@
 5) 2 x M3 nuts
 6) 2 x M3 acrews
 7) 2 x Self tapping screws (RS 266-5680)
-8) 1 x barrel jack connector 
-9) 1 x barrel jack connector Y splitter
+8) 1 x Barrel jack connector (panel mount)
+9) 1 x Barrel jack connector Y splitter
 
 # Assembly instructions
 
