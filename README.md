@@ -16,10 +16,20 @@
    ![20240828_155358](https://github.com/user-attachments/assets/7cf73ba9-4c4e-4d9f-b590-2c61c8a49c98)
 ### 9. Use M3 screws to attach the base with the back cover
    ![20241008_115842](https://github.com/user-attachments/assets/46b33c13-1d4a-4e96-aec7-40f1f92f8411)
+### 10. Place the boost converter and the driver board on the base (they slide in inside the rails only in one direction until they reach a stop)
+![20240828_161543](https://github.com/user-attachments/assets/145ff293-4b44-497a-84ca-423055fed767)
+![20240828_161526](https://github.com/user-attachments/assets/26547076-a698-4cc4-a718-8e843e85bcc9)
+
+### 11. Solder the barrel jack connector ( We recommend cheching the polarity of the positive (internal pin) and negative pins and cut the 3rd (sleeve) pin 
+![20240828_162123](https://github.com/user-attachments/assets/2be16825-22c3-4ca3-ac0c-2bf7027098fe)
+
 ### 6. Adjust the voltage of the boost converter
    ![20241008_101745](https://github.com/user-attachments/assets/5de86ee4-9718-4f58-afde-a6b6984ad0ee)
- 
+### 6. Connect back the joistick connector
+![20241009_115725](https://github.com/user-attachments/assets/9d6ee81d-19aa-44ce-9064-5a3db4ce0e8d)
+### 6. Connect the backlight connector through the hole on the box
 
+### 6. Close the back cover
 ## Bill of materials
 1 x 3D printed case
 1 x 3D printed base
@@ -28,6 +38,9 @@
 2 x M3 nuts
 2 x M3 acrews
 2 x screws
+1 x barrel jack connector
+1 x barrel jack connector Y splitter
+
 
 
 
