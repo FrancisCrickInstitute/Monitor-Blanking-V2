@@ -46,7 +46,8 @@
 
 
 ## Bill of materials
-1 x 3D printed case
+
+   1 x 3D printed case
 1 x 3D printed base
 1 x Driver board
 1 x boost converter
