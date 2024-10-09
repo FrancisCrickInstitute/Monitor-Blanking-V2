@@ -1,4 +1,4 @@
-## Bill of materials
+# Bill of materials
 
 1) 1 x 3D printed case
 2) 1 x 3D printed base
