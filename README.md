@@ -54,7 +54,7 @@
 
 ### 18. Close the back cover
 
-### 19. Put the switch in (     ) position
+### 19. Put the switch in the wanted position (inverted/non inverting)
 
 
 
