@@ -26,7 +26,11 @@
 ### 12. Adjust the voltage of the boost converter by connecting the barrel jack to the display power supply and the output to the multimiter terminals, then use a small flat screwdriver to adjust the output voltage to 54V
    ![20241008_101745](https://github.com/user-attachments/assets/5de86ee4-9718-4f58-afde-a6b6984ad0ee)
    
-### 13. Adjust the voltage of the boost converter by connecting the barrel jack to the display power supply and the 
+### 13. Solder the boost output wires to the +(red) and -(black) terminals of the driver board
+![20240828_162147](https://github.com/user-attachments/assets/9601cc66-9b1c-4885-b263-cccf6eb213ed)
+
+### 14. Put the top cover of the box inserting first the barrel jack connector through the hole and hold it in place using the nut.
+
 
 ### 6. Connect back the joistick connector
 ![20241009_115725](https://github.com/user-attachments/assets/9d6ee81d-19aa-44ce-9064-5a3db4ce0e8d)
