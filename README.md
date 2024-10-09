@@ -3,12 +3,12 @@
 1) 1 x 3D printed case
 2) 1 x 3D printed base
 3) 1 x Driver board
-1 x boost converter
-2 x M3 nuts
-2 x M3 acrews
-2 x screws
-1 x barrel jack connector
-1 x barrel jack connector Y splitter
+4) 1 x boost converter
+5) 2 x M3 nuts
+6) 2 x M3 acrews
+7) 2 x Self tapping screws (RS 266-5680)
+8) 1 x barrel jack connector 
+9) 1 x barrel jack connector Y splitter
 
 # Assembly instructions
 
