@@ -7,7 +7,7 @@
 5) 2 x M3 nuts
 6) 2 x M3 screws 12-16 mm length
 7) 2 x Self tapping screws
-8) 1 x [Barrel jack connector (panel mount)] (https://www.amazon.co.uk/gp/product/B00WZ7UX6C/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+8) 1 x [Barrel jack connector (panel mount)](https://www.amazon.co.uk/gp/product/B00WZ7UX6C/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 9) 1 x [Barrel jack connector Y splitter](https://www.amazon.co.uk/gp/product/B0C9TR26LD/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 
 # Assembly instructions
